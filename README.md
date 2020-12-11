@@ -10,7 +10,7 @@ Cut_retina contains the files and the model to cut the cards and the olaf
 classification_netwoks file contains the NN for bi-class and multiclass classification, both training and prediction.
 
 <p align="center">
-  <img src="misc/sample1.png" width="500">
+  <img src="ejemplo/ejemplo.png" width="500">
 </p>
 
 From there, it is easy to wrap it to serve requests.
